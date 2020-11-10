@@ -15,6 +15,7 @@
 		9E1A95792474C96F0010ADDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E1A95772474C96F0010ADDC /* LaunchScreen.storyboard */; };
 		9E1A95812474CBD70010ADDC /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E1A95802474CBD70010ADDC /* UIViewController+Extensions.swift */; };
 		9E1A95832474CCF20010ADDC /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E1A95822474CCF20010ADDC /* User.swift */; };
+		C29335FA255AFF84007879CA /* ValidationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29335F9255AFF84007879CA /* ValidationService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9E1A957A2474C96F0010ADDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9E1A95802474CBD70010ADDC /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
 		9E1A95822474CCF20010ADDC /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		C29335F9255AFF84007879CA /* ValidationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9E1A956C2474C96E0010ADDC /* AppDelegate.swift */,
 				9E1A956E2474C96E0010ADDC /* SceneDelegate.swift */,
 				9E1A95702474C96E0010ADDC /* ViewController.swift */,
+				C29335F9255AFF84007879CA /* ValidationService.swift */,
 				9E1A95722474C96E0010ADDC /* Main.storyboard */,
 				9E1A95752474C96F0010ADDC /* Assets.xcassets */,
 				9E1A95772474C96F0010ADDC /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			files = (
 				9E1A95812474CBD70010ADDC /* UIViewController+Extensions.swift in Sources */,
 				9E1A95712474C96E0010ADDC /* ViewController.swift in Sources */,
+				C29335FA255AFF84007879CA /* ValidationService.swift in Sources */,
 				9E1A956D2474C96E0010ADDC /* AppDelegate.swift in Sources */,
 				9E1A95832474CCF20010ADDC /* User.swift in Sources */,
 				9E1A956F2474C96E0010ADDC /* SceneDelegate.swift in Sources */,
